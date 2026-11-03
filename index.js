@@ -1,4 +1,4 @@
-
+alert("Port by https://yukios.pages.dev")
 var Godot = (() => {
   var _scriptDir = typeof document !== 'undefined' && document.currentScript ? document.currentScript.src : undefined;
   
